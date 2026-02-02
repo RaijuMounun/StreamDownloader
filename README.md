@@ -1,3 +1,5 @@
+| This still works but not in a good condition. I switched to XDM. 
+
 # Stream Downloader v4
 
 <div align="center">
